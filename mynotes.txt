@@ -1,0 +1,56 @@
+
+------------------------------------------------------------------------------------------------------------------------------
+## Step by step notes
+1. Did you successfully create a website with an independent repository?
+   a. Does it contain an "index.html" file and is it an independent GitHub repository with no other work inside of it? Only this lab's work.
+2. Did you successfully create a live link for your lab?
+3. Did your website successfully pass HTML validation?
+4. Does your file comparison contain any coding error differences between your index.html and the lab's lab2_final.html?
+------------------------------------------------------------------------------------------------------------------------------
+# Insturctions for completeing Lab 2
+## Understanding the HTML5 Skeleton Structure
+
+**Objective:**
+All your pages and sites should start from the basic HTML5 Skeleton Structure.
+In this lab, you will build an html page using this structure and add some content using HTML tags.
+
+**Process:**
+1. Using your text editor (i.e., Notepad++), create a new plain text file. If your editor asks for encoding type then select “utf-8”.
+1. Use Notepad++ to save your new file.
+    * Select *Save as* from *File* in the top navigation
+    * File Name = *index*
+    * Save As Type = *Hyper Text Markup Language File*
+1. Start by adding the proper HTML5 Skeleton Structure to the document.
+1. The page title should be *Internet Technologies and Web Design*. Use this in both the head section title tag and for the level 1 heading ```<h1>``` tag in the page content.
+1. Add content to your *index.html* page using the text found in *lab2raw_txt.html*.
+1. Use *lab2_image.png* as a guide to mark up your content with HTML elements. I hope it’s obvious that the red text is to guide you and should not be included in the final page.
+1. Your page, when viewed in your browser, should look similar to the *lab2_image.png* file. HTML text looks slightly different on different browsers, so, text breaks might not be exactly the same.
+1. Follow the video instructions for testing and turning in labs (*How to Turn In Labs*).
+1. Turn in the following:
+    * Repo Link
+    * Live Link
+    * Image of Validation Screen Capture
+    * Image of File Comparison
+----------------
+ITMD-361 Internet Technologies and Web Design
+ITMD-361 Internet Technologies and Web Design
+Semester? Year?
+Student Name and email
+Professor:
+Daniel Krieglstein
+Lecture Days, Time and Place:
+Day? 6:25pm to 9:05pm, On Blackboard's Collaborate Ultra
+Course Catalog Description:
+This course will cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Web site including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. Students design and create a major Web site with multiple pages and cross-linked structures. Prerequisites: [none] Credit: 2-2-3 Semester Hours
+Course Outcomes:
+Students completing this course will be able to:
+Recognize HTML, CSS, and JavaScript markup and code.
+Select the proper mark-up tags or code to achieve a particular result.
+Identify improperly used markup and code.
+Produce modern standards compliant web pages.
+Deploy web pages to a GitHub server.
+Course Objectives:
+At the conclusion of this course, each successful student will able to:
+Explain the client and server architecture of both the internet and related web technologies.
+Use a basic text editor and other software tools to create web pages written in HTML, CSS, JavaScript, and jQuery.
+Deploy web pages to a Gethub using version control and Github Desktop.
